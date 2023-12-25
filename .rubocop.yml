@@ -38,3 +38,6 @@ Style/DataInheritance:
 
 Style/ParallelAssignment:
   Enabled: false
+
+Gemspec/RequireMFA:
+  Enabled: false
